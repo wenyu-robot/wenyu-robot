@@ -38,7 +38,7 @@ The goal is to gradually share:
 - **Hands-on projects** — code, simulations, and reproducible experiments
 - **A living roadmap** — an evolving map of the robotics and embodied AI landscape
 
-The first roadmap and project materials are in preparation. I'll link them here as they are published.
+The first [Wichun.lab knowledge map and project overview](https://github.com/wenyu-robot/wichun-lab) are now available in English and Chinese. Follow the repository for upcoming learning notes, paper readings, and reproducible experiments.
 
 ### How I learn
 
